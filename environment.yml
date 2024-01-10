@@ -1,0 +1,12 @@
+name: MechProp3D
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip=23.2.1
+  - numpy=1.24.3
+  - scipy=1.10.1
+  - pyvista=0.37.0
+  - pyvistaqt=0.9.1 
+  - pyqt5=5.15.9

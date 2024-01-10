@@ -1,7 +1,8 @@
 # MechProp3D
 
-![MechProp3D Fronpage](MechProp3D/docs/1.png =290x290)  ![MechProp3D Fronpage](MechProp3D/docs/2.png =290x290)![MechProp3D Fronpage](MechProp3D/docs/3.png =290x290) 
-
+![MechProp3D Fronpage](https://github.com/kais-ammar/MechProp3D/assets/64466635/091c122e-3992-4b7a-8e0f-50c791b28313 =290x290)  
+![MechProp3D Fronpage](https://github.com/kais-ammar/MechProp3D/assets/64466635/94337767-e721-44bb-923a-3da40da51c41 =290x290)
+![MechProp3D Fronpage](https://github.com/kais-ammar/MechProp3D/assets/64466635/79b60b62-7be9-4707-8ae2-d6dbd63f99f6 =290x290
 
 MechProp3D is a GUI interface viewer for 3D visualization of elastic properties.
 

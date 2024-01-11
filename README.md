@@ -1,6 +1,6 @@
 # MechProp3D
 
-![MechProp3D Fronpage](MechProp3D/docs/5.png)
+![MechProp3D Fronpage](MechProp3D/docs/image4.png)
 
 MechProp3D is a GUI interface viewer for 3D visualization of elastic properties.
 
